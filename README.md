@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bvikash363R
 - 👀 I’m interested in Data Scientist
-- 🌱 I’m currently learning DSA in Java & DBMS
+- 🌱 I’m currently learning Data Science with ML & AI
 - 📫 How to reach me
 - bvikash363@gmail.com / raadhaKrishna363@gmail.com 
 <!---
